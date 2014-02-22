@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4AEA507D-B8AC-4609-B94E-61F63957FC71</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ll</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CA0B67FF-76B4-4DF5-BF05-61BC32B24A3A</key>
+		<string>https://github.com/sunilbanjara/newrepo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ll.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CA0B67FF-76B4-4DF5-BF05-61BC32B24A3A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sunilbanjara/newrepo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CA0B67FF-76B4-4DF5-BF05-61BC32B24A3A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CA0B67FF-76B4-4DF5-BF05-61BC32B24A3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>newrepo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
